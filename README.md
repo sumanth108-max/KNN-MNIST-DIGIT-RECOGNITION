@@ -1,0 +1,2 @@
+# KNN-MNIST-DIGIT-RECOGNITION
+KNN (K Nearest Neighbours Algorithm)  is a poweful classification algorithm used pattern recognition ,Its find the distance between two points ,Its help identify the particular person handwritting through this ML model.This work on the basis of KNN algorthim it collect the data and analyses that particular data or digit and give the nearest value of the given input .Predict the neareast values or similarity measures to find the distance between two function.
